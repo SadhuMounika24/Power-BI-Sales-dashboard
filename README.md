@@ -8,9 +8,12 @@ In this project I Used 7 tables:
 * Orders
 * Payments
 * Returns
-* Regions
+* Regions.
+
 Using these tables, I created Relationships and build dashboard for sales analysis.
+
 I Created Charts and Visuals to Understand :
+
 * Sales performance
 * Customer Performance
 * Product analysis
